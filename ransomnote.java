@@ -1,7 +1,8 @@
 import java.util.HashMap;
 public class ransomnote{ 
 
-    public static boolean canConstruct(String ransomNote, String magazine) {
+    public static
+     boolean canConstruct(String ransomNote, String magazine) {
 
         HashMap<Character, Integer> map = new HashMap<>();
 
