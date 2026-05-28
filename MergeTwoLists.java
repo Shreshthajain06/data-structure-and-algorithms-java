@@ -64,7 +64,7 @@ public class MergeTwoLists {
         list1.next = new ListNode(2);
         list1.next.next = new ListNode(4);
 
-        // List 2: 1 -> 3 -> 4
+        // List 2: 1 -> 3 -> 4c
         ListNode list2 = new ListNode(1);
         list2.next = new ListNode(3);
         list2.next.next = new ListNode(4);
