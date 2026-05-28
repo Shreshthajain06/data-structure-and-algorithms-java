@@ -1,4 +1,5 @@
 
+
 class ListNode {
     int val;
     ListNode next;
@@ -60,4 +61,5 @@ public class Linkedlistcycle {
     }
 }
    
-    
+
+
